@@ -11,3 +11,4 @@ To launch the server, run `npm run dev`. Once bootstrapped, the application will
 http://localhost:80/. To stop the server, just ctrl + c or close the window.
 
 To run the test suite, run `npm run test`.
+To run the test suite, run `npm run test`.
